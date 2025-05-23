@@ -1,46 +1,86 @@
-# Getting Started with Create React App
+# Iterable Landing Page 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, high-converting landing page for Iterable's AI-powered marketing automation platform. Built with React, TypeScript, and Tailwind CSS featuring a sleek dark theme with glassmorphism effects.
 
-## Available Scripts
+## 🌟 Live Demo
 
-In the project directory, you can run:
+**[View Live Site →](https://iterable-landing-page-d8xwuqeft-sumchatterings-projects.vercel.app)**
 
-### `yarn start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Modern Dark Theme**: Futuristic glassmorphism design with gradient accents
+- **AI-Powered Focus**: Showcases Iterable's Nova AI suite and personalization capabilities
+- **Conversion Optimized**: Strategic placement of CTAs and social proof elements
+- **Fully Responsive**: Mobile-first design that looks great on all devices
+- **Performance Focused**: Optimized React components with Tailwind CSS
+- **Customer Success Stories**: Real metrics from Jersey Mike's, The Athletic, and more
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `yarn test`
+- **React 18** with TypeScript
+- **Tailwind CSS 3.3.5** for styling
+- **Create React App** for build tooling
+- **Vercel** for deployment
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎨 Design Highlights
 
-### `yarn build`
+- Gradient branding from cyan to indigo
+- Animated background effects and glowing elements
+- Modern typography with careful hierarchy
+- Interactive hover states and smooth transitions
+- Professional component architecture
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Quick Start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Clone the repository
+git clone https://github.com/sumeruchat/iterable-landing-page.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Install dependencies
+yarn install
 
-### `yarn eject`
+# Start development server
+yarn start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Build for production
+yarn build
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📁 Project Structure
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+src/
+├── components/
+│   ├── Navbar.tsx      # Fixed navigation with mobile menu
+│   ├── Hero.tsx        # Main hero section with email capture
+│   ├── LogoBar.tsx     # Customer social proof
+│   ├── Features.tsx    # AI capabilities and success metrics
+│   ├── Integrations.tsx # Platform connectivity showcase
+│   ├── CTA.tsx         # Conversion-focused demo request
+│   └── Footer.tsx      # Comprehensive site navigation
+├── App.tsx             # Main app component
+└── index.tsx           # React entry point
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 💼 About Iterable
 
-## Learn More
+Iterable is the AI-powered marketing automation platform that helps brands create personalized, cross-channel experiences. Used by leading companies like Priceline, Fender, Box, and Jersey Mike's to drive real business results.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📈 Performance
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- ⚡ Fast loading with optimized assets
+- 📱 100% mobile responsive
+- ♿ Accessibility-focused markup
+- 🎯 Conversion-optimized user flow
+
+## 🤝 Contributing
+
+This is an open-source demonstration project. Feel free to fork, modify, and use as inspiration for your own landing pages!
+
+## 📄 License
+
+MIT License - feel free to use this code for your own projects.
+
+---
+
+Built with ❤️ using React + TypeScript + Tailwind CSS
