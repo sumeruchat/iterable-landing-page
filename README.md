@@ -4,7 +4,7 @@ A modern, high-converting landing page for Iterable's AI-powered marketing autom
 
 ## 🌟 Live Demo
 
-**[View Live Site →](https://iterable-landing-page-d8xwuqeft-sumchatterings-projects.vercel.app)**
+**[View Live Site →](https://iterable-landing-page.vercel.app/)**
 
 ## ✨ Features
 
